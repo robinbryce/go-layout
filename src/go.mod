@@ -1,1 +1,1 @@
-module github.com/robinrbyce/go-layout
+module github.com/robinbryce/go-layout
