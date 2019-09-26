@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/robinbryce/go-layout/services/deep2"
+	"github.com/robinbryce/go-layout/service/deep2"
 )
 
 func main() {
